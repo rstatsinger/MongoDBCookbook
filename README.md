@@ -1,4 +1,4 @@
 # mongodb
 
-TODO: Enter the cookbook description here.
+Simple cookbook for MongoDB installation. Verified on Centos-7
 
